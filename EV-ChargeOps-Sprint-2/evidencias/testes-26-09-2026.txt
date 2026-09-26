@@ -1,0 +1,32 @@
+EV ChargeOps — validação executada em 26/09/2026
+
+Testes automatizados: 10 aprovados
+
+- potência impossível sinalizada: OK
+- previsão de sete dias: OK
+- sessão fechada sem fim sinalizada: OK
+- arredondamento financeiro: OK
+- taxa fixa e percentual: OK
+- desconto não cria total negativo: OK
+- percentual validado como decimal: OK
+- sessão pendente não é cobrada: OK
+- CSV ignora total informado e recalcula: OK
+- registro recalcula o total: OK
+
+Validação da interface: OK
+
+- Visão geral
+- Nova sessão
+- Importar CSV
+- Sessões e rateio
+- Módulo de IA
+- formulário, rateio, gravação e análise de IA
+
+Evidência de execução:
+
+- 12 sessões processadas
+- 207,05 kWh
+- R$ 240,12
+- 1 anomalia conhecida detectada
+- 0 erros de importação
+

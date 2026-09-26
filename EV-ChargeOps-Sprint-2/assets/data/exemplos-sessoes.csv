@@ -1,0 +1,13 @@
+sessao_id,local,carregador,usuario,unidade,veiculo,placa,inicio,fim,kwh_consumido,tarifa_kwh,taxa_fixa,percentual_operacional,desconto,total_calculado,status,origem_dado
+S-0001,Condominio Solar,EVSE-01,Ana Souza,Apto 101,Volvo EX30,ABC1D23,2026-06-01T19:10:00,2026-06-01T22:40:00,18.40,0.92,2.00,0.12,0.00,20.96,fechada,carregador
+S-0002,Condominio Solar,EVSE-02,Bruno Lima,Apto 204,BYD Dolphin,DEF4G56,2026-06-02T08:05:00,2026-06-02T10:20:00,11.75,0.92,2.00,0.12,0.00,14.11,fechada,carregador
+S-0003,Condominio Solar,EVSE-01,Carla Dias,Apto 305,GWM Ora,HIJ7K89,2026-06-02T21:00:00,2026-06-03T00:30:00,16.20,0.92,2.00,0.12,0.00,18.69,fechada,csv
+S-0004,Estacionamento Centro,EVSE-07,Diego Martins,Vaga Avulsa,Renault Kwid E-Tech,KLM0N12,2026-06-03T13:15:00,2026-06-03T14:05:00,6.10,1.35,3.00,0.15,0.00,12.48,fechada,manual
+S-0005,Frota Interna,EVSE-11,Equipe Operacao,Centro Custo 20,Nissan Leaf,NOP3Q45,2026-06-04T07:30:00,2026-06-04T09:45:00,14.80,0.88,0.00,0.05,0.00,13.67,fechada,carregador
+S-0006,Condominio Solar,EVSE-02,Ana Souza,Apto 101,Volvo EX30,ABC1D23,2026-06-05T18:55:00,,0.00,0.92,2.00,0.12,0.00,0.00,pendente,carregador
+S-0007,Condominio Solar,EVSE-01,Bruno Lima,Apto 204,BYD Dolphin,DEF4G56,2026-06-06T18:00:00,2026-06-06T21:00:00,21.30,0.92,2.00,0.12,0.00,23.95,fechada,carregador
+S-0008,Condominio Solar,EVSE-02,Carla Dias,Apto 305,GWM Ora,HIJ7K89,2026-06-07T08:00:00,2026-06-07T09:30:00,9.60,0.92,2.00,0.12,0.00,11.89,fechada,carregador
+S-0009,Condominio Solar,EVSE-01,Ana Souza,Apto 101,Volvo EX30,ABC1D23,2026-06-08T19:00:00,2026-06-08T21:45:00,17.90,0.92,2.00,0.12,0.00,20.45,fechada,csv
+S-0010,Frota Interna,EVSE-11,Equipe Operacao,Centro Custo 20,Nissan Leaf,NOP3Q45,2026-06-09T07:10:00,2026-06-09T09:10:00,13.40,0.88,0.00,0.05,0.00,12.38,fechada,carregador
+S-0011,Condominio Solar,EVSE-01,Teste de Anomalia,Apto 999,Veiculo de Teste,TST0A11,2026-06-10T12:00:00,2026-06-10T13:00:00,65.00,0.92,2.00,0.12,0.00,68.98,fechada,csv
+S-0012,Estacionamento Centro,EVSE-07,Diego Martins,Vaga Avulsa,Renault Kwid E-Tech,KLM0N12,2026-06-11T14:00:00,2026-06-11T16:06:00,12.60,1.35,3.00,0.15,0.00,22.56,fechada,manual
